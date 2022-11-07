@@ -1,0 +1,3 @@
+[submodule "noise_est_ICCV2015"]
+	path = noise_est_ICCV2015
+	url = https://github.com/zsyOAOA/noise_est_ICCV2015.git
